@@ -1,0 +1,10 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Populate" type="Application" factoryName="Application">
+    <option name="MAIN_CLASS_NAME" value="cz.muni.fi.pv168.project.Main" />
+    <module name="pv-168-recipes-db" />
+    <option name="PROGRAM_PARAMETERS" value="--populate" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>

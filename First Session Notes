@@ -1,0 +1,33 @@
+# Notes by PM
+* Meeting handeling
+    * showcase what was done till last meeting
+    * showcase a functionality of mine choosing
+    * talk about something, they should update and change
+    * talk with me and then with a tech lead (Jakub with my case)
+        * Specify the project -> write me
+        * Communication with Tech Leader about technical stuff
+
+* Meetings structure:
+    1. hotové GUI, které ale nemusí mít žádné napojení na byznys logiku
+        * GUI by mělo být hotové s menšími nedodělky
+    2. implementovaná byznys logika a import/export
+        * pokrývá funkcionalitu a import a export
+        * byznys logika nemusí být implementovaná kompletně
+    3. implementovaná perzistence
+        * v této fázi lze vyžadovat filtrování a statistiku
+        * byznys logika by měla být víceméně hotová
+    4. neblokující operace a hotový projekt
+        * dodělávky všeho potřebného - byznys logika, filtrace, ...
+
+* Create a Git repo
+    * Add me (Reviewer) and Tech Lead as (Developer)
+    * (optional) using board on gitlab
+* Project structure
+    * One of the possible projects (Cash-flow or Recepies)
+    * 4 milestones and next milestone is in around 2 weeks
+
+WRITE ME (or Jakub), if anything doesn't make sense!
+Contact:
+* Discord name: @m̷̹̆a̸͂̈́t̶̛̍t̵͌̒j̷̀̔ō̴͗k̸̀̎e̷̓͐#4801
+* [PV168 Discord server](https://discord.com/channels/860192799029723146/1018823563026911263)
+* [IS mail](mailto:hakos@muni.cz)

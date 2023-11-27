@@ -1,0 +1,71 @@
+{
+  "units": [
+    {
+      "order": 0,
+      "name": "gram",
+      "abbreviation": "g",
+      "conversionFactor": 1,
+      "baseUnit": 0
+    },
+    {
+      "order": 1,
+      "name": "kilogram",
+      "abbreviation": "kg",
+      "conversionFactor": 1000,
+      "baseUnit": 0
+    }
+  ],
+  "categories": [
+    {
+      "order": 0,
+      "name": "Best category",
+      "color": [
+        0,
+        0,
+        255
+      ],
+      "description": "something something"
+    },
+    {
+      "order": 1,
+      "name": "Worst category",
+      "color": [
+        255,
+        0,
+        0
+      ],
+      "description": "something different"
+    }
+  ],
+  "ingredients": [
+    {
+      "order": 0,
+      "name": "apple",
+      "quantity": 5,
+      "unit": 0,
+      "nutritionalValue": 10
+    },
+    {
+      "order": 1,
+      "name": "banana",
+      "quantity": 1,
+      "unit": 1,
+      "nutritionalValue": 10000
+    }
+  ],
+  "recipes": [
+    {
+      "order": 0,
+      "name": "Halusky",
+      "description": "najlepsia vec co Michal robi",
+      "ingredients": [
+        0,
+        1
+      ],
+      "instructions": "Nechajte to na Michala. On vie co robi.",
+      "category": 0,
+      "portions": 5,
+      "duration": 30
+    }
+  ]
+}
